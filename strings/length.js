@@ -54,5 +54,5 @@ function checkPalindrom(str){
     return 'its a palindrome';
 }
 
-let value = "ammu"
+let value = "amma"
 console.log(checkPalindrom(value));
